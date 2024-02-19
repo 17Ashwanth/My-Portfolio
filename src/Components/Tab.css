@@ -1,0 +1,73 @@
+/* Add this to your CSS or use inline styles */
+.nav-pills .nav-link.active {
+    background-color: #01030c !important; /* Set your desired active color here */
+  }
+  
+  .nav-pills{
+         margin-top: 50px;
+  }
+
+  .bar_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0px;
+    margin-bottom: 1rem;
+    position: relative;
+
+}
+
+.base_bar{
+    width: 100%;
+    height: 0.5rem;
+    background-color: black;
+    border-radius: 0.5rem;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+
+}
+
+.html-bar{
+    width: 95%;
+    background-color: white
+}
+
+.css-bar{
+    width: 88%;
+    background-color: white
+}
+
+.bootstrap-bar{
+    width: 85%;
+    background-color: white
+
+}
+
+.js-bar{
+    width: 80%;
+    background-color: white
+ 
+}
+
+.react-bar{
+    width: 78%;
+    background-color: white
+}
+
+.ang-bar{
+    width: 70%;
+    background-color: white
+}
+
+.node-bar{
+    width: 75%;
+    background-color: white
+}
+
+.db-bar{
+    width: 78%;
+    background-color: white
+}
+
+

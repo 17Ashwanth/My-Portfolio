@@ -14,9 +14,8 @@ function Footer() {
               {" "}
               <div style={{marginTop:'85px'}} >
                 <h4 style={{fontFamily: "Anta,sans-serif", fontWeight: "800"
-                    ,fontStyle:"normal",color:'black'}} className="text-center text-dark">Don't Be Shy!</h4>
-                <p style={{fontFamily: "Anta,sans-serif", fontWeight: "800"
-                    ,fontStyle:"normal",color:'black'}} className="mt-0 text-center text-dark">Get In Touch And Feel Free To Ask!  </p>
+                    ,fontStyle:"normal",color:'black'}} className="text-center text-dark">Let's Connect! <br /> Have a project in mind or just want to chat? <br /> Drop me a message.</h4>
+                
               </div>
             </Col>
             <Col lg={6} md={12} sm={12}>

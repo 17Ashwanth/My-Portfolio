@@ -8,7 +8,7 @@ function Home() {
         <div className="text-center">
           <h1 style={{ fontFamily: "Anta, sans-serif", fontWeight: "800", fontStyle: "normal" }}  className="mb-2">I AM A <span className='text-primary'>ME(A)RN</span> STACK DEVELOPER</h1>
           <h3 style={{ fontFamily: "Anta, sans-serif", fontWeight: "500", fontStyle: "normal" }} >This is my Official Portfolio Website <br /> to Describe all Details and Work Experience <br /> in Web Development.</h3>
-          <a href='https://drive.google.com/file/d/194Lf4yK-u7spWEOheLiyYTQll0p5MQVj/view?usp=sharing' target='_blank'><button  className='btn btn-primary mt-2'>GET THE RESUME{" "}<i class="fa-solid fa-download fa-bounce"></i></button></a>
+          <a href='https://drive.google.com/drive/home' target='_blank'><button  className='btn btn-primary mt-2'>GET THE RESUME{" "}<i class="fa-solid fa-download fa-bounce"></i></button></a>
         </div>
       </section>
     </>
